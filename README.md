@@ -27,4 +27,4 @@ Hecha en PostgreSQL en el programa PgAdmin 4.
 
 ### SistemaContable
 
-En el archivo llamado sistema contable se encuentra el link que conduce al archivo del sistema y donde se puede descargar
+En el archivo llamado sistema contable.txt se encuentra el link que conduce al archivo del sistema y donde se puede descargar
